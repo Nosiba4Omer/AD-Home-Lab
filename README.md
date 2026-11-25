@@ -1,5 +1,6 @@
 Windows Server 2025 – Active Directory Home Lab
 
+
 This project documents the setup and configuration of a Windows Server 2025 lab environment using VMware Workstation.
 The objective is to build a practical IT infrastructure environment and gain hands-on experience with Windows Server administration, Active Directory, DNS, DHCP, and Group Policy.
 Lab Environment
