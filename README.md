@@ -35,3 +35,19 @@ Project Documentation
 Screenshots and configuration details will be added as the project progresses.
 Project Status
 Phase 1: Windows Server Installation and Initial Network Configuration – Completed.
+
+Markdown
+
+## Screenshots Documentation
+
+1. Windows Server Installation
+![Windows Server Installation](Screenshot1.png)
+
+2. Server Configuration
+![Server Configuration](Screenshot2.png)
+
+3. Server Manager
+![Server Manager](Screenshot3.png)
+
+4. Network Configuration
+![Network Configuration](Screenshot4.png)
